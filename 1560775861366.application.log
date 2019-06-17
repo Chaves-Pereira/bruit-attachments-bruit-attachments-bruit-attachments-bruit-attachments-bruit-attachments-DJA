@@ -1,0 +1,6 @@
+
+14:50:50	click	//body[0]/app-root[0]/ion-app/ion-split-pane/ion-menu[0]/#document-fragment/div[0]/slot/ion-header[0]/ion-toolbar/#document-fragment/div[1]/div[0]/slot/ion-title/#document-fragment/div[0]/slot/bruit-io/a 
+	
+14:50:48	click	//body[0]/app-root[0]/ion-app/ion-split-pane/ion-router-outlet[0]/#document-fragment/slot[0]/app-home/ion-header[0]/ion-toolbar/#document-fragment/div[1]/slot[0]/ion-buttons[0]/ion-menu-button/#document-fragment/ion-menu-toggle[0]/#document-fragment/slot[0]/button 
+	
+14:50:46	url	http://localhost:8100/home	
